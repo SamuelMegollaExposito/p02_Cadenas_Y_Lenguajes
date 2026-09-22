@@ -1,0 +1,3 @@
+abbab -> babba
+6793836 -> 6383976
+hola -> aloh
